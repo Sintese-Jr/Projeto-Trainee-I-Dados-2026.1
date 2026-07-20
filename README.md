@@ -1,0 +1,1 @@
+# Projeto-Trainee-I-Dados-2026.1
