@@ -1,0 +1,4 @@
+# Datasets grandes
+dados/data.csv
+dados/labels.csv
+dados/*.csv
