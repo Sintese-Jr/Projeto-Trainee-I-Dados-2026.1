@@ -2,3 +2,4 @@
 dados/data.csv
 dados/labels.csv
 dados/*.csv
+dados/dados_limpos.csv
