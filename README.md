@@ -22,6 +22,7 @@ O objetivo principal é identificar padrões de expressão gênica que diferenci
 │   └── 03_modelagem.ipynb
 ├── .gitignore              # Regras de exclusão do Git
 ├── predict.py              # Script CLI para diagnóstico via terminal
+├── Relatório               # Relatório do projeto completo
 └── README.md               # Documentação do projeto
 ```
 
